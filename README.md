@@ -1,6 +1,6 @@
 # NYT-React-Search
 
-# Heroku link: 
+<!-- # Heroku link:  -->
 
 ## Overview
 

@@ -1,6 +1,9 @@
 # NYT-React-Search
 
-<!-- # Heroku link:  -->
+# Heroku link: https://avickerm-nyt-react-search.herokuapp.com/
+
+
+### Heroku deploy currently not working.
 
 ## Overview
 
